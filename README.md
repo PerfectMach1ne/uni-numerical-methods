@@ -1,2 +1,3 @@
 # uni-numerical-methods
-SciLab scripts from my BA Eng uni semester 5 numerical methods class.
+TIL GitHub even recognizes and supports SciLab files in the file previews and language stats, so I couldn't help myself.
+###### Anything to push Java the hell out of my Most Used Languages statistics.
